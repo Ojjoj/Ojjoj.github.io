@@ -12,3 +12,4 @@ mfti,karam
 creative,absoun
 mdtahad,ahmad
 chocking,karam
+nerd,solah
